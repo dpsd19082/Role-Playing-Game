@@ -1,8 +1,8 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Malamati Moysidou
+### University Registration Number: dpsd19082
+### GitHub Personal Profile: 
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction

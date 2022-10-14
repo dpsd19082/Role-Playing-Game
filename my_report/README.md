@@ -2,8 +2,8 @@
 
 ### First and Last Name: Malamati Moysidou
 ### University Registration Number: dpsd19082
-### GitHub Personal Profile: 
-### Digital & Serious Games Personal Repository: xxx
+### GitHub Personal Profile: https://github.com/dpsd19082
+### Digital & Serious Games Personal Repository: 
 
 # Introduction
 dubi dubi da zibu zibu zonk
